@@ -72,7 +72,7 @@
 
 
         // 실제 출석받을 구글 폼 URL
-        const GOOGLE_FORM_URL = "여기에_실제_구글폼_링크_입력";
+        const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScr_U0kz9ea4NlbcNMGRgrdBtHpVkns066V0bKzozv-BEIZ6A/viewform?usp=publish-editor";
 
 
         // 두 위치 사이의 거리 계산
